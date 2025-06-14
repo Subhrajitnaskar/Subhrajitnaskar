@@ -11,8 +11,9 @@
 <!-- About Me -->
 <h2>👨‍💻 About Me</h2>
 
-I'm a passionate **Computer Science Engineer** with experience in **Data Structures**, **Web Development**, and **Full Stack Technologies**. I love building scalable and user-friendly apps.
+I'm a passionate **Computer Science Engineer**, currently pursuing **B.Tech in Computer Science and Engineering (BCSE)** from **Jadavpur University**. I have hands-on experience in **Data Structures**, **Web Development**, and **Full Stack Technologies**. I love building scalable and user-friendly apps.
 
+- 🎓 Studying at: Jadavpur University (B.Tech in CSE)  
 - 🔭 Working on: Advanced JavaScript + Backend Projects  
 - 🌱 Learning: System Design | MongoDB | Docker  
 - 💬 Ask me about anything tech – I love helping!  

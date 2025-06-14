@@ -1,16 +1,23 @@
-<!-- Banner Image -->
+<!-- Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Hi%20there!%20I'm%20Subhrajit%20👨‍💻&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="header"/>
 
-<!-- About Me Section -->
+<!-- Typing Animation (Skills Loop) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=0072FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Computer+Science+Engineer;Full+Stack+Web+Developer;DSA+Problem+Solver;Java+%7C+JavaScript+%7C+Python;React+%7C+Node.js+%7C+AngularJS;HTML+%7C+CSS+%7C+MongoDB+%7C+Git" alt="Typing SVG" />
+</p>
+
+---
+
+<!-- About Me -->
 <h2>👨‍💻 About Me</h2>
 
-I'm a passionate **Computer Science Engineer** with hands-on experience in **Data Structures & Algorithms**, **Web Development**, and **Full Stack Technologies**. I love to build scalable web applications and constantly explore new technologies to improve myself.
+I'm a passionate **Computer Science Engineer** with experience in **Data Structures**, **Web Development**, and **Full Stack Technologies**. I love building scalable and user-friendly apps.
 
-- 🔭 Currently working on JavaScript and backend projects
-- 🌱 Learning System Design and contributing to Open Source
-- 💬 Ask me about anything tech-related – always happy to help!
-- 📫 How to reach me: [subhrajit.dev@gmail.com](mailto:subhrajit.dev@gmail.com)
-- ⚡ Fun fact: I debug better at night 🌙
+- 🔭 Working on: Advanced JavaScript + Backend Projects  
+- 🌱 Learning: System Design | MongoDB | Docker  
+- 💬 Ask me about anything tech – I love helping!  
+- 📫 Email: [subhrajitnaskar516@gmail.com](mailto:subhrajitnaskar516@gmail.com)  
+- ⚡ Fun fact: I code better with caffeine ☕ and lo-fi beats 🎧  
 
 ---
 
@@ -42,8 +49,8 @@ I'm a passionate **Computer Science Engineer** with hands-on experience in **Dat
 
 ---
 
-<!-- Most Used Languages -->
-<h2>📌 Languages Used</h2>
+<!-- Top Languages -->
+<h2>📌 Most Used Languages</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhrajitnaskar&layout=compact&theme=radical" alt="Top Languages"/>
@@ -51,17 +58,29 @@ I'm a passionate **Computer Science Engineer** with hands-on experience in **Dat
 
 ---
 
-<!-- Contact Me -->
+<!-- Project Showcase -->
+<h2>✨ Featured Project</h2>
+
+<h4>📁 Portfolio Website</h4>
+<p>🔗 <a href="https://subhrajitnaskar.github.io/portfolio_me/" target="_blank">Visit my Portfolio</a></p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/67447840/205449807-ffce3a47-efb3-4b5b-9b49-474e14ae85d8.gif" width="70%" alt="Portfolio GIF Preview"/>
+</p>
+
+---
+
+<!-- Contact Section -->
 <h2>📫 Connect With Me</h2>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:subhrajitnaskar516@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <a href="mailto:subhrajitnaskar516@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/subhrajit-naskar-b67b68320"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/subhrajit_naskar_20"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://subhrajitnaskar.github.io/portfolio_me/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
+
+---
 
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=150&section=footer"/>

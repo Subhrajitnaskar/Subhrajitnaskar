@@ -63,7 +63,7 @@ I'm a passionate **Computer Science Engineer**, currently pursuing **B.Tech in C
 <h2>✨ Featured Project</h2>
 
 <h4>📁 Portfolio Website</h4>
-<p>🔗 <a href="https://subhrajitnaskar.github.io/portfolio_me/" target="_blank">Visit my Portfolio</a></p>
+<p>🔗 <a href="https://subhrajitnaskar.github.io/MY-PORTFOLIO-SUBHRAJIT---/" target="_blank">Visit my Portfolio</a></p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/67447840/205449807-ffce3a47-efb3-4b5b-9b49-474e14ae85d8.gif" width="70%" alt="Portfolio GIF Preview"/>

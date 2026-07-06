@@ -11,6 +11,8 @@
 <!-- About Me -->
 <h2>👨‍💻 About Me</h2>
 
+<img align="right" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 I'm a passionate **Computer Science Engineer**, currently pursuing **B.Tech in Computer Science and Engineering (BCSE)** from **Jadavpur University**. I have hands-on experience in **Data Structures**, **Web Development**, and **Full Stack Technologies**. I love building scalable and user-friendly apps.
 
 - 🎓 Studying at: Jadavpur University (B.Tech in CSE)  
